@@ -1,0 +1,12 @@
+== ABOUT ==
+This project is a rewrite of the BEDPOSTX script to support
+Amazon EC2.  It currently supports Sun Grid Engine (SGE).
+
+BEDPOSTX is part of the FMRIB Software Library, a package
+used to process fMRI data.
+
+The BEDPOSTX script is here:
+  - http://www.fmrib.ox.ac.uk/fsl/fdt/fdt_bedpostx.html
+
+The FMRIB Software Library (FSL) is here:
+  - http://www.fmrib.ox.ac.uk/fsl/fsl/downloading.html
